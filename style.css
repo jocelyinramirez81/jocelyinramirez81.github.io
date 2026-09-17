@@ -25,7 +25,7 @@ p {
 
 div {
     width: 300px;
-    height: 100px;
+    height: auto;
     background-color: #CDB4DB;
     border: 3px solid #5B376D;
     padding: 20px;
